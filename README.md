@@ -1,2 +1,1 @@
-# c-programming
-c++ programs to learn
+HACKERRANK : PROBLEM SOLVING SOLUTIONS
